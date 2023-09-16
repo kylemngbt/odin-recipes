@@ -5,3 +5,8 @@
 .recipe {
     text-align: center;
 }
+
+img {
+    height: 384px;
+    width: auto;
+}
