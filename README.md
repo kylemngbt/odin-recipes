@@ -1,0 +1,1 @@
+This project is only meant to practice building my HTMl chops.
