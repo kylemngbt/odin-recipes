@@ -26,7 +26,7 @@ a {
   color: black;
 }
 
-.container img {
+img {
   border-radius: 10px;
   border: solid 2px black;
   width: 500px;
