@@ -18,11 +18,11 @@ body {
 .content {
   display: flex;
   justify-content: space-evenly;
-  font-family: 'Quicksand', sans-serif;
-  font-size: 24px;
 }
 
 a {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 24px;
   color: black;
 }
 
