@@ -32,12 +32,42 @@ img {
   width: 500px;
 }
 
+
 .container {
   display: flex;
   flex-direction: column;
   gap: 10px;
   align-items: center;
   justify-content: center;
+}
+
+
+
+
+
+.recipe-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.recipe-content h1,
+.recipe-content h2 {
+  font-family: 'Amatic SC', sans-serif;
+}
+
+.recipe-title {
+  font-size: 70px;
+}
+
+.recipe-content h2{
+  font-size: 40px;
+}
+
+.recipe-content p,
+.recipe-content li {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
 }
 
 
